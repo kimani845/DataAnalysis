@@ -1,0 +1,6 @@
+# Q1
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
