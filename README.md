@@ -65,7 +65,7 @@ Open `environment analysis.ipynb` and run the cells in order.
 ---
 
 ## ✅ Notes
-- Place your rainfall datasets (CSV files) in the same folder as the notebook.
+- Place all your datasets (CSV files) in the same folder as the notebook.
 - Replace the dataset names in the notebook if you use custom files.
 - Ensure your Python version is **3.8+**.
 
