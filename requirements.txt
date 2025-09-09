@@ -1,4 +1,4 @@
-# Q1
+# A1
 numpy
 pandas
 matplotlib
@@ -6,3 +6,6 @@ scipy
 statsmodels
 xlrd
 openpyxl
+
+# A2
+jupyter
